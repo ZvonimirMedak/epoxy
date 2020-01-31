@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "183847958731",
+    "firebase_url": "https://com-example-epoxy.firebaseio.com",
+    "project_id": "com-example-epoxy",
+    "storage_bucket": "com-example-epoxy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:183847958731:android:09977d87c4837791d4c34e",
+        "android_client_info": {
+          "package_name": "com.example.epoxy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "183847958731-ark12j8jp8m2982iv1ut7te3l32oggvk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.epoxy",
+            "certificate_hash": "d9bbf1f0dd852cef7e9e0cc9586f41e3a7b77064"
+          }
+        },
+        {
+          "client_id": "183847958731-loi5c58ut4t776f64gomb86f52qo5l67.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5Wf004995tiFpwGK0YMqn5gzbK3dh8LY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "183847958731-loi5c58ut4t776f64gomb86f52qo5l67.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
